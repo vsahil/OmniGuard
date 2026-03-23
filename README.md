@@ -1,1 +1,1 @@
-Code for OmniGuard (still being cleaned-up)
+Code for OmniGuard
